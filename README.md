@@ -1,5 +1,5 @@
-# Introduction to Cultural Analytics & Python
-Designed by [Melanie Walsh](https://melaniewalsh.org/) // Powered by [Jupyter Book](https://jupyterbook.org/)
+# Introduction to Artificial intelligence for Corpus analysis
+Course by Pierre-Carl Langlais inspired by [Melanie Walsh](https://melaniewalsh.org/) // Powered by [Jupyter Book](https://jupyterbook.org/)
 
 This repository hosts the code for the online textbook, *Introduction to Cultural Analytics & Python*, which offers an introduction to the programming language Python that is specifically designed for people interested in the humanities and social sciences.
 
